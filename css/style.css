@@ -82,7 +82,7 @@ a, .btn, button, span, p, i, input, select, textarea, li, img, svg path, ::after
 
 }
 .dark .btn::before {
-  background-color: #df2919;
+  background-color: #47C6EE;
   content: "";
   height: 100px;
   left: auto;
@@ -100,10 +100,10 @@ a, .btn, button, span, p, i, input, select, textarea, li, img, svg path, ::after
 }
 .dark .btn:hover::after{
     color: #fff;
-    background: #df2919;
+    background: #01D4FE;
 }
 .dark .btn.ss-btn.white:hover{
-    background: #df2919;
+    background: #01D4FE;
 }
 .dark .follower-box{
     background: #1c1c1c;
@@ -121,13 +121,13 @@ border-bottom: 1px solid #ffffff1a;
     color: #fff;
 }
 .dark .main-menu ul li a:hover,.dark .header-social a:hover{
-    color: #df2919;
+    color: #01D4FE;
 }
 .dark .header-three .btn.ss-btn::before {
   border-color: #000;
 }
 .dark .header-three .btn.ss-btn{
-    background:  #df2919;
+    background: #01D4FE;
 }
 .dark .header-three .btn.ss-btn:hover{
     color: #fff;
@@ -509,7 +509,7 @@ vertical-align: middle;
 white-space: nowrap;
 position: relative;
 z-index: 1;
-background: #df2919;
+background: #47C6EE;
 border: none;
 font-family: 'Inter', sans-serif;
 font-weight: 500;
@@ -2106,7 +2106,7 @@ bottom: 5px;
 	font-weight: 500;
 	text-transform: uppercase;
 	color: #fff;
-	background: #df2919;
+	background: #00DBFF;
 	height: 30px;
 	display: inline-block;
 	text-align: center;
@@ -2142,7 +2142,7 @@ color: #9C9C9C;
 }
 .about-title .title-strong span {
     padding: 3px 12px;
-    background: #df2919;
+    background: #00DBFF;
     border-radius: 5px;
     color: #fff;
 }
@@ -2150,7 +2150,7 @@ color: #9C9C9C;
 	display: inline-block;
 	height: 2px;
 	width: 40px;
-	background: #df2919;
+	background: #00DBFF;
 	margin-right: 20px;
 	position: relative;
 	top: -5px;
@@ -2690,7 +2690,7 @@ section:hover .section-title h2::before{width: 100px;}
 width: 30px;
 height: 3px;
 margin-right: 10px;
-background: #df2919;
+background: #00DBFF;
 margin-top: 11px;
 position: absolute;
 left: 0;
@@ -2718,7 +2718,7 @@ left: 0;
 }
 .services-two .s-single-services .btn2{
     display: inline-block;
-    color: #df2919;
+    color: #00DBFF;
 }
 .services-area.gray-bg{position: relative;z-index: 1;overflow: hidden;}
 .single-services {
@@ -2733,7 +2733,7 @@ left: 0;
 	position: absolute;
 	left: 5px;
 	top: 5px;
-	background: #df2919;
+	background: #00DBFF;
 	z-index: -1;
 	transition: .3s;
 	opacity: 0;
@@ -2748,7 +2748,7 @@ left: 0;
 	display: block;
 	height: 2px;
 	width: 150px;
-	background: #df2919;
+	background: #00DBFF;
 	transition: .3s;
 	margin-bottom: 55px;
 }
@@ -2767,9 +2767,9 @@ left: 0;
 	font-size: 24px;
 	margin-bottom: 23px;
 }
-.services-content h4:hover a{color: #df2919;}
+.services-content h4:hover a{color: #00DBFF;}
 .services-content p{margin-bottom: 0;}
-.single-services:hover .services-content span {background: #df2919;}
+.single-services:hover .services-content span {background: #00DBFF;}
 .single-services:hover::before{opacity: 1;}
 .services-active .slick-dots {
 	text-align: center;
@@ -2795,7 +2795,7 @@ text-indent: -99999px;
     position: relative;
 }
 .services-active .slick-dots li.slick-active button::after {
-background: #df2919;
+background: #00DBFF;
   position: absolute;
   left: 3px;
   top: 3px;
@@ -2815,7 +2815,7 @@ text-align: center;
 width: 100px;
 height: 100px;
 line-height: 100px;
-border: 1px solid #ff4328;
+border: 1px solid #00DBFF;
 }
 .services-two .services-icon {
 display: inline-block;
@@ -2841,7 +2841,7 @@ padding: 25px;
    font-family: "Font Awesome 5 Pro";
     content: "ï€Œ";
    margin-right: 10px;
-color: #df2919;
+color: #00DBFF;
 }
 .services-icon .glyph-icon::before {
     font-size: 48px;
@@ -2922,7 +2922,7 @@ width: 86px;
   position: relative;
 }
 .services-active2 .slick-dots li.slick-active button::after {
-  background: #df2919;
+  background: #00DBFF;
   position: absolute;
   left: 3px;
   top: 3px;
@@ -3296,7 +3296,7 @@ padding-top: 30px;
 .services-box .ss-btn2{
     width: 60px;
     height: 60px;
-    background: #df29190% 0% no-repeat padding-box;
+    background: #6a0ca0 0% no-repeat padding-box;
     box-shadow: 0px 16px 32px #df291933;
     display: none;
     color: #fff;
@@ -3351,7 +3351,7 @@ height: 40px;
     color:#777;
 }
 .services-content-02 .ss-btn2 span{
-   color: #df2919; 
+   color: #47C6EE; 
     margin-left: -10px;
     font-weight: 600;
     opacity: 0;
@@ -3659,7 +3659,7 @@ border: 2px solid #df2919;
     padding-right: 38px;
 }
 .simple-services-area .btn.active{
-    border: 1px solid #df2919;
+    border: 1px solid #47C6EE;
 }
 .simple-services-area .about-sbox{
     background: #131313;
