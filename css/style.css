@@ -568,7 +568,7 @@ font-weight: 700;
 .slider-btn2 a i{
      transform: rotate(45deg);
     margin-left: 5px;
-    color: #df2919;
+    color: #47C6EE;
 }
 .slider-btn2 a::before {
   content: "";
@@ -576,7 +576,7 @@ font-weight: 700;
   position: relative;
   display: inline-block;
   height: 1px;
-  background: #df2919;
+  background: #47C6EE;
   top: -5px;
   margin-right: 30px;
 }
@@ -921,7 +921,7 @@ color: #000000;
     margin-left: 10px;
 }
 .top-btn:hover {
-    background: transparent linear-gradient(90deg, #df29190%, #df2919100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #df291900, #df291910) 0% 0% no-repeat padding-box;
      color: #fff;
 }
 .sticky-menu .logo{
@@ -4067,7 +4067,7 @@ border-left: none !important;
 	top: 50%;
 	height: 90px;
 	width: 90px;
-	background: transparent linear-gradient(90deg, #df29190%, #df2919100%) 0% 0% no-repeat padding-box;
+	background: transparent linear-gradient(90deg, #df2919, #df291910) 0% 0% no-repeat padding-box;
 	z-index: -1;
 	border-radius: 50%;
 	transform: translate(-50%,-50%);
@@ -5027,7 +5027,7 @@ width: 100%;
 top: 36px;
 }
 .counter-area .row div:nth-child(4) .single-counter {
-  display: ;
+  display:none;
   border-right: none;
 }
 .single-counter {
@@ -7568,9 +7568,9 @@ width: auto !important;
     width: 100%;
 
 }
-.sidebar-widget .widget li.page_item_has_children,
+.sidebar-widget .widget li.page_item_has_children
  {
-    padding-bottom: 0;
+    padding-bottom:0px;
 }
 .sidebar-widget .widget .children{
 	padding-left:15px;
@@ -8947,7 +8947,7 @@ td.product-thumbnail img {
 }
 
 .coupon-info p.form-row input[type="submit"]:hover, p.checkout-coupon input[type="submit"]:hover {
-  background: #df2919none repeat scroll 0 0;
+  background: #df2919 repeat scroll 0 0;
 }
 
 .coupon-info p.form-row input[type="checkbox"] {
@@ -10361,7 +10361,7 @@ display: inline-block;
     margin-top: 50px;
 }
 .process-area .col-lg-3.col-md-12:nth-child(2) .process-icon,.process-area .col-lg-3.col-md-12:nth-child(2) .no{
-    background: #df29190% 0% no-repeat padding-box;
+    background: #df2919 0% no-repeat padding-box;
 }
 .process-area .col-lg-3.col-md-12:nth-child(3) .process-icon,.process-area .col-lg-3.col-md-12:nth-child(3) .no{
     background: #27ae61 0% 0% no-repeat padding-box;
